@@ -6,8 +6,6 @@ A lightweight Minecraft mod that makes minecarts significantly faster, turning r
 - Optional server-side-only usage (clients don’t need the mod if the server has it)
 - Minimal, focused change: just faster minecarts, no extra mechanics
 
-[![Modrinth](https://img.shields.io/badge/available%20on-modrinth-00af5c?style=flat-square)](https://modrinth.com/mod/fast-minecart)
-[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
 ---
 
@@ -78,8 +76,6 @@ If you remove the mod, minecarts return to vanilla speed.
   - Updating to the latest FastMinecart build.
   - Testing without other physics- or movement-related mods.
 
-Report any issues on the [Issues page](../../issues).
-
 ---
 
 ## Building from Source
@@ -112,27 +108,5 @@ If you want to build or modify the mod yourself:
 
 Adjust versions, mappings, or loader targets in the build configuration as needed for your environment.
 
----
-
-## License
-
-This project is released under the **CC0-1.0** license.  
-You are free to use, modify, and distribute it without restriction.
-
-See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Credits
-
-- Original concept and implementation by **Aleksei Spiridonov**  
-- Inspired by the idea of making minecarts a more practical transportation option in vanilla-like gameplay.
-
----
-
-## Links
-
-- [Repository](.)
-- [Issues](../../issues)
-- [Releases](../../releases)
-- [Modrinth page](https://modrinth.com/mod/fast-minecart) (if applicable)
